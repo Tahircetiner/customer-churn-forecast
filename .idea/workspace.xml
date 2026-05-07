@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cbfdbf8-9420-45c9-9a10-c3ee67484ece" name="Changes" comment="increase accuracy decrease loss">
+    <list default="true" id="6cbfdbf8-9420-45c9-9a10-c3ee67484ece" name="Changes" comment="include shap to visualize which feature affects more">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model.keras" beforeDir="false" afterPath="$PROJECT_DIR$/model.keras" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
@@ -74,7 +74,7 @@
       <updated>1778087703139</updated>
       <workItem from="1778087705053" duration="142000" />
       <workItem from="1778087925116" duration="3256000" />
-      <workItem from="1778139513735" duration="10254000" />
+      <workItem from="1778139513735" duration="12887000" />
     </task>
     <task id="LOCAL-00001" summary="decrease lose with earlystopping and dropout">
       <option name="closed" value="true" />
@@ -100,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778147336695</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="include shap to visualize which feature affects more">
+      <option name="closed" value="true" />
+      <created>1778153819212</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1778153819212</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,7 +118,8 @@
     <MESSAGE value="decrease lose with earlystopping and dropout" />
     <MESSAGE value="save model" />
     <MESSAGE value="increase accuracy decrease loss" />
-    <option name="LAST_COMMIT_MESSAGE" value="increase accuracy decrease loss" />
+    <MESSAGE value="include shap to visualize which feature affects more" />
+    <option name="LAST_COMMIT_MESSAGE" value="include shap to visualize which feature affects more" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
